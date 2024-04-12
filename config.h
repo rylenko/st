@@ -6,6 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Iosevka Nerd Font Mono:pixelsize=23:antialias=true:autohint=true";
+static char *font2[] = {
+	"Noto Color Emoji:pixelsize=25:antialias=true:autohint=true",
+};
+
 static int borderpx = 6;
 
 /*
